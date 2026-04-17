@@ -16,6 +16,7 @@ def multiply(a, b):
 def sqrt(x):
     return math.sqrt(x)
 
+
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
     print(f"2 + 2 = {add(2, 2)}")
